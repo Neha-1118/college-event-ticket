@@ -1,7 +1,7 @@
-/* General Styles */
+
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #cabca7; /* Festive light background */
+    background-color: #cabca7; 
     margin: 0;
     padding: 20px;
     display: flex;
@@ -10,14 +10,14 @@ body {
     min-height: 100vh;
 }
 
-/* Ticket Styles */
+
 .ticket {
-    background: linear-gradient(to bottom, #dd6e4f, #e95022); /* Vibrant gradient */
+    background: linear-gradient(to bottom, #dd6e4f, #e95022); 
     border-radius: 15px;
     max-width: 500px;
     width: 100%;
     text-align: center;
-    color: #f8efef; /* White text for contrast */
+    color: #f8efef; 
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
     padding: 20px;
 }
@@ -42,27 +42,27 @@ body {
 .college-name h1 {
     font-size: 1.4em;
     margin: 0;
-    color: #ffe082; /* Golden yellow */
+    color: #ffe082;
 }
 
 .college-name p {
     font-size: 1em;
     margin: 5px 0 0;
-    color: #fff; /* White text */
+    color: #fff;
 }
 
-/* Body Styles */
+
 .ticket-body h2 {
     font-size: 1.8em;
     margin-bottom: 20px;
-    color: #ffeb3b; /* Bright yellow */
+    color: #ffeb3b; 
 }
 
 .details {
     text-align: left;
     margin: 10px 0;
     padding: 10px;
-    background-color: rgba(245, 176, 73, 0.2); /* Transparent white */
+    background-color: rgba(245, 176, 73, 0.2); 
     border-radius: 10px;
 }
 
@@ -71,19 +71,17 @@ body {
     font-size: 1.1em;
     color: #fff;
 }
-
-/* Footer Styles */
 .ticket-footer {
     margin-top: 20px;
     font-size: 0.9em;
-    background-color: rgba(0, 0, 0, 0.3); /* Slightly darker background */
+    background-color: rgba(0, 0, 0, 0.3); 
     padding: 15px;
     border-radius: 0 0 15px 15px;
     text-align: center;
-    color: #ffe082; /* Golden yellow */
+    color: #ffe082;
 }
 
-/* Additional Styling for Decorations */
+
 .ticket-footer p {
     margin: 0;
     font-style: italic;
